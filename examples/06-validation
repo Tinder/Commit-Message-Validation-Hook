@@ -1,0 +1,7 @@
+Aborting commit due to line in body of commit message exceeding 72 character limit.
+-
+Hello World
+
+Hello World Hello World Hello World Hello World Hello World Hello World Hello World
+-
+To temporarily bypass commit message validation, use `git commit --no-verify`.

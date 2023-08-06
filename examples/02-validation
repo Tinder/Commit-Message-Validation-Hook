@@ -1,0 +1,5 @@
+Aborting commit due to first line of commit message starting with a lowercase letter.
+-
+hello world
+-
+To temporarily bypass commit message validation, use `git commit --no-verify`.

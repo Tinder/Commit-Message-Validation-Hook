@@ -1,0 +1,6 @@
+Aborting commit due to second line of commit message not being empty.
+-
+Hello World
+Hello World
+-
+To temporarily bypass commit message validation, use `git commit --no-verify`.
