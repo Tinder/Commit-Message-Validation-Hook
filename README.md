@@ -51,7 +51,9 @@ git commit --no-verify
 
 Install [spellcheck-cli](https://github.com/Tinder/spellcheck-cli) to also spell-check commit messages. The `commit-msg` hook will automatically use the `spellcheck` script if installed.
 
-For compatibility with the [Tower](https://git-tower.com) Mac app, [follow the instructions to define the PATH environment variable](https://www.git-tower.com/help/guides/integration/environment/mac).
+For compatibility with the [Tower](https://git-tower.com) Mac app, ensure the `Automatically request environment variables from login shell` setting is enabled.
+
+<img src="./.assets/Tower.png" width="456" height="346" />
 
 ## Contributing
 
