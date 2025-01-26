@@ -57,8 +57,14 @@ For compatibility with the [Tower](https://git-tower.com) Mac app, ensure the `A
 
 ## Contributing
 
-While interest in contributing to this project is appreciated, it has been open sourced solely for the purpose of sharing with the community. This means we are unable to accept outside contributions at this time and pull requests will not be reviewed or merged. To report a security concern or vulnerability, please submit a GitHub issue.
+While interest in contributing to this project is appreciated, it has been open 
+sourced solely for the purpose of sharing with the community. This means we are 
+unable to accept outside contributions at this time and pull requests will not 
+be reviewed or merged. To report a security concern or vulnerability, please 
+submit a GitHub issue.
 
 ## License
 
-Licensed under the [Match Group Modified 3-Clause BSD License](https://github.com/Tinder/Commit-Message-Validation-Hook/blob/main/LICENSE).
+Licensed under the [Match Group Modified 3-Clause BSD License](
+https://github.com/Tinder/Commit-Message-Validation-Hook/blob/main/LICENSE
+).
